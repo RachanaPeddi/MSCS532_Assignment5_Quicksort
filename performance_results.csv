@@ -1,0 +1,10 @@
+Input Size,Distribution,Deterministic Time (ms),Randomized Time (ms)
+100,Random,0.2632,0.2509
+100,Sorted,0.4594,0.1708
+100,Reverse Sorted,0.6338,0.1697
+500,Random,0.9823,1.2313
+500,Sorted,7.0453,0.5493
+500,Reverse Sorted,7.4845,0.6121
+1000,Random,1.5048,0.9898
+1000,Sorted,21.5231,0.8764
+1000,Reverse Sorted,29.0754,1.0173
